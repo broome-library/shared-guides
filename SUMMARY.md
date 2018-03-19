@@ -3,6 +3,7 @@
 # Shared Chapters
 
 * [Books](books.md)
+* [Peer-reviewed](peer-reviewed.md)
 
 # Contacts
 
