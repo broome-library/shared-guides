@@ -3,7 +3,11 @@
 # Shared Chapters
 
 * [Books](books.md)
+* [Citing](citing.md)
+* [Evaluating Internet Sources](internet-src.md)
 * [Peer-reviewed](peer-review.md)
+* [Primary Sources](primary.md)
+
 
 # Contacts
 
