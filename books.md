@@ -1,19 +1,19 @@
 # Books
 
 
-![OneSearch](img\onesearch.png)
+![OneSearch](img/onesearch.png)
 
 ---
 
-[OneSearch](img\onesearch) is the catalog for both the John Spoor Broome (JSB) Library and all 23 California State Universities. Everything or Books and Media All CSU will allow you to search all the books and media for the 23 campuses. The Books and Media CSUI allows you to locate books, electronic books, DVDs, CDs, and other items owned by the JSB Library.
+[OneSearch](img/onesearch) is the catalog for both the John Spoor Broome (JSB) Library and all 23 California State Universities. Everything or Books and Media All CSU will allow you to search all the books and media for the 23 campuses. The Books and Media CSUI allows you to locate books, electronic books, DVDs, CDs, and other items owned by the JSB Library.
 
-![WorldCat](img\worldcat.png)
+![WorldCat](img/worldcat.png)
 
 ---
 
 [WorldCat](https://californiastateuniversity-channelislands.worldcat.org/advancedsearch) is a library catalog that contains items from libraries worldwide. When you find an item you would like in WorldCat you will want to click on the item title to verify that California State University, Channel Islands is not one of the libraries that owns this item.  If you would like to request this item click link Request Item through Interlibrary Loan.  This is a service available only to CSUCI Students, Faculty, and Staff.
 
-![ebrary](img\ebrary.bmp)
+![ebrary](img/ebrary.bmp)
 
 ---
 
