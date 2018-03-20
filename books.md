@@ -1,6 +1,3 @@
-# Books
-
-
 ![OneSearch](https://broome-library.gitbooks.io/shared/content/img/onesearch.png)
 
 ---
