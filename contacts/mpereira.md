@@ -1,5 +1,5 @@
-## Janet Pinkley
-### Head of Access Services
-> Broome Library 1572<br/>
-> <a href:"tel:8054373348">805.437-3348</a><br/>
-> <a href="mailto:janet.pinkley@csuci.edu">janet.pinkley@csuci.edu</a>
+## Monica Pereira
+### Collections Coordinator
+> Broome Library 1571<br/>
+> <a href:"tel:8054373654">805.437-3654</a><br/>
+> <a href="mailto:monica.pereira@csuci.edu">monica.pereira@csuci.edu</a>
