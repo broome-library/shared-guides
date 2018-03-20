@@ -11,6 +11,8 @@
 
 # Contacts
 
-* [lcarroll](contacts/lcarroll.md)
+* [dhoffmann](contacts/dhoffmann.md)
 * [jpinkley](contacts/jpinkley.md)
+* [lcarroll](contacts/lcarroll.md)
 * [lworden](contacts/lworden.md)
+* [mpereira](contacts/mpereira.md)
