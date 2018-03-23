@@ -1,0 +1,6 @@
+## The Irene and Jorge Garcia Collection 
+The Irene and Jorge Garcia Chicano Studies Collection focuses on the U.S. immigrant experience from all eras and examines disenfranchised groups. With over 4,000 titles, the collection emphasizes Chicano Studies as well as other ethnic studies groups such as Filipino, Armenian, Latin American, German, and Irish. The scope of the collection also includes Chicano popular fiction, rare codices, classic children's books in Spanish, and over 300 music titles from varying genres like traditional mariachi to contemporary Chilean techno music. 
+ 
+Browse the [complete collection](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr32,exact,Irene%20and%20Jorge%20Garcia%20Chicano%20Studies%20Collection%20,AND&tab=books_local&search_scope=01CALS_UCI&vid=01CALS_UCI&lang=en_US&mode=advanced&offset=0).
+ 
+Browse the [children’s titles](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr32,exact,Irene%20and%20Jorge%20Garcia%20Chicano%20Studies%20Collection%20,AND&tab=books_local&search_scope=01CALS_UCI&sortby=rank&vid=01CALS_UCI&facet=local3,include,Juvenile%20-%201st%20Floor$$I01CALS_UCI&lang=en_US&mode=advanced&offset=0) from the collection. 
