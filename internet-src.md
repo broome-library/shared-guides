@@ -2,6 +2,8 @@
 
 Not all information is equally valuable. Retrieved information, whether from a print or non-print sources, must be carefully examined to determine its usefulness and quality. As the World Wide Web becomes more popular as a source of information for assignments and research papers, it is important to be able to select and critically evaluate the sites you visit.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/paYfP28Q2CA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Relevance/Appropriateness
 1.	Is the format/medium of the information useful for your assignment? 
 2.	If you need primary sources, is this a primary source? 
