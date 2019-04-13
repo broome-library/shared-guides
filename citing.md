@@ -5,6 +5,7 @@ Stop by the library to look at:
 * [**MLA  Handbook:** Ref LB 2369.G53](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71422445740002901&context=L&vid=01CALS_UCI&search_scope=01CALS_UCI&tab=books_local&lang=en_US)
 * [**The Chicago Manual of Style:** Ref Z253 .U69](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71472040480002901&context=L&vid=01CALS_UCI&search_scope=01CALS_UCI&tab=books_local&lang=en_US)
 * [**Publication Manual of the American Psychological Association:** Ref BF76.7 .P83 2010](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71407248640002901&context=L&vid=01CALS_UCI&search_scope=01CALS_UCI&tab=books_local&lang=en_US)
+* [**American Sociological Association Style Guide:** Ref HM569 .A54 2019](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71519140980002901&context=L&vid=01CALS_UCI&lang=en_US&search_scope=01CALS_UCI&adaptor=Local%20Search%20Engine&tab=books_local&query=any,contains,sociological%20association,AND&query=any,contains,style%20guide,AND&sortby=rank&mode=advanced&offset=0)
 
 Also see the library [“need to cite”](http://www.library.csuci.edu/research/cite-sources.htm) page for a guide for assembling your work cited in your paper.
 
