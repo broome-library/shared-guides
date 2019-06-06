@@ -11,11 +11,11 @@
 
 > Manuscripts, artwork and rare printed books, treaties, speeches, and diaries dating from the earliest contact with European settlers to photographs and newspapers from the mid-twentieth century.
 
-### [American Periodicals Series 1740-1900](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/americanperiodicals?accountid=7284)
+### [American Periodicals Series 1740-1940](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/americanperiodicals?accountid=7284)
 
-> American Periodicals Series Online contains over 1,100 periodicals that first began publishing between 1740 and 1900.
+> American Periodicals Series Online contains over 1,100 periodicals that first began publishing between 1740 and 1940.
 
-### [American State Papers, 1789-1838](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [American State Papers, 1789-1838](https://infoweb-newsbank-com.summit.csuci.edu/iw-search/we/Digital?p_product=ASPA&p_action=keyword&p_theme=sset2&p_nbid=P50F50XJMTU1OTg0NTc2OS45MzYyNDk6MToxNToyMDkuMTI5LjExOC4xNTI&p_clear_search=&s_search_type=keyword&s_category=none&d_refprod=ASPA&s_browse=)
 
 > Contains primary material of American historical importance including legislative and executive documents, speeches of U.S. presidents and coverage of historical events from 1789-1838.
 
@@ -51,11 +51,11 @@
 
 > Women’s world travel writing from the early 19th century to the late 20th century. Collection includes manuscripts, diaries, correspondence, drawings, guidebooks, and photographs.
 
-### [U.S. Congressional Serial Set](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [U.S. Congressional Serial Set](https://infoweb-newsbank-com.summit.csuci.edu/iw-search/we/Digital?p_product=SERIAL&p_action=keyword&p_theme=sset2&p_nbid=I50W50YJMTU1OTg0NTk2My4zNjQ0NDk6MToxNToyMDkuMTI5LjExOC4xNTI&p_clear_search=&s_search_type=keyword&s_category=none&d_refprod=SERIAL&s_browse=)
 
 > Contains reports, documents and journals of the U.S. Senate and House of Representatives.
 
-### [U.S. Congressional Serial Set Maps](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/)
+### [U.S. Congressional Serial Set Maps](https://infoweb-newsbank-com.summit.csuci.edu/iw-search/we/Digital?p_product=SSMAP&p_action=keyword&p_theme=ssmap&p_nbid=X4FV4FWIMTU1OTg0NjAwMS41MTI4MTA6MToxNToyMDkuMTI5LjExOC4xNTI&p_clear_search=&s_search_type=keyword&s_category=none&d_refprod=SSMAP&s_browse=)
 
 > Contains images and indexing for maps published in reports and documents of the 37th Congress, 1st Session through the 103rd Congress, 2nd session.
 
@@ -64,11 +64,11 @@
 > Women and Social Movements is a collection of documents that are organized aroundthe history of women in social movements in the U.S. between 1600 and 2000.
 
 ## Newspaper Databases
-These are the newpaper databases available through the John Spoor Broome library that contain current news.
+These are the newpaper databases available through the John Spoor Broome Library that contain current news.
 
-* [Proquest Newspapers](http://summit.csuci.edu:2048/login?url=https://search.proquest.com/newsstand?accountid=7284)
+* [ProQuest US Newsstream](http://summit.csuci.edu:2048/login?url=https://search.proquest.com/newsstand?accountid=7284)
 * [Access World News](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com/resources/?p=AWNB)
-* [Alt-Press Watch](http://summit.csuci.edu:2048/login?url=https://search.proquest.com/altpresswatch?accountid=7284)
+* [ProQuest Alt-Press Watch](http://summit.csuci.edu:2048/login?url=https://search.proquest.com/altpresswatch?accountid=7284)
 
 ## Historical Newspapers
 
