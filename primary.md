@@ -72,7 +72,7 @@ These are the newpaper databases available through the John Spoor Broome Library
 
 ## Historical Newspapers
 
-### [Los Angeles Times Historical (1881-1994)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnplatimes?accountid=7284)\)
+### [Los Angeles Times Historical (1881-1994)](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/hnplatimes?accountid=7284)
 
 > Includes indexing and full text content of the Los Angeles Times from 1881 through 1994.
 
